@@ -1,0 +1,33 @@
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background: #bcce9b;
+  margin-top: 20px;
+  margin-left: 500px;
+}
+
+div {
+  margin-bottom: 20px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 20px;
+  background: #2ceccc;
+  color: rgb(240, 173, 28);
+  border: none;
+  border-radius: 80px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #53e725;
+}
+
+input {
+  margin-right: 10px;
+  padding: 8px;
+  border: 1px solid #c5eb1b;
+  border-radius: 4px;
+}
